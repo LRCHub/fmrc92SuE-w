@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Who I Am Hates Who I've Been",
+  "base_artist": "Relient K",
+  "createdAt": "2026-03-31T07:01:30.477239Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Who I Am Hates Who I've Been",
+      "artist": "Relient K",
+      "has_synced": true,
+      "path": "select/01_Who_I_Am_Hates_Who_I've_Been_Relient_K.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Who I Am Hates Who I've Been",
+      "artist": "Relient K",
+      "has_synced": true,
+      "path": "select/02_Who_I_Am_Hates_Who_I've_Been_Relient_K.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Who I Am Hates Who I've Been",
+      "artist": "Relient k",
+      "has_synced": true,
+      "path": "select/03_Who_I_Am_Hates_Who_I've_Been_Relient_k.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Who I Am Hates Who I've Been",
+      "artist": "Relient K",
+      "has_synced": true,
+      "path": "select/04_Who_I_Am_Hates_Who_I've_Been_Relient_K.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Who I Am Hates Who I've Been",
+      "artist": "Relient K",
+      "has_synced": true,
+      "path": "select/05_Who_I_Am_Hates_Who_I've_Been_Relient_K.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Who I Am Hates Who I've Been",
+      "artist": "Relient K",
+      "has_synced": true,
+      "path": "select/06_Who_I_Am_Hates_Who_I've_Been_Relient_K.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Who I Am Hates Who I’ve Been",
+      "artist": "Relient K",
+      "has_synced": true,
+      "path": "select/07_Who_I_Am_Hates_Who_I’ve_Been_Relient_K.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Who I Am Hates Who I’ve Been",
+      "artist": "Relient K",
+      "has_synced": true,
+      "path": "select/08_Who_I_Am_Hates_Who_I’ve_Been_Relient_K.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Who I Am Hates Who I've Been",
+      "artist": "Reliant K",
+      "has_synced": true,
+      "path": "select/09_Who_I_Am_Hates_Who_I've_Been_Reliant_K.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Who I Am Hates Who I've Been (Acoustic)",
+      "artist": "Relient K",
+      "has_synced": true,
+      "path": "select/10_Who_I_Am_Hates_Who_I've_Been_(Acoustic)_Relient_K.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Who I Am Hates Who I’ve Been (acoustic)",
+      "artist": "Relient K",
+      "has_synced": true,
+      "path": "select/11_Who_I_Am_Hates_Who_I’ve_Been_(acoustic)_Relient_K.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Who I Am Hates Who I’ve Been (Acoustic)",
+      "artist": "Relient K",
+      "has_synced": true,
+      "path": "select/12_Who_I_Am_Hates_Who_I’ve_Been_(Acoustic)_Relient_K.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Who I Am Hates Who I've Been",
+      "artist": "Relient K, Unknown",
+      "has_synced": false,
+      "path": "select/13_Who_I_Am_Hates_Who_I've_Been_Relient_K,_Unknown.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Who I Am Hates Who I've Been",
+      "artist": "RelientK",
+      "has_synced": false,
+      "path": "select/14_Who_I_Am_Hates_Who_I've_Been_RelientK.txt"
+    }
+  ]
+}
